@@ -1,0 +1,2 @@
+# Codepract
+just trying basics
