@@ -1,2 +1,2 @@
-# Codepract
+# CodePract
 just trying basics
